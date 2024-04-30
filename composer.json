@@ -1,0 +1,17 @@
+{
+    "name": "davi-s-silva/distance-city",
+    "description": "a simple package to calculate the distance between coordinate points using the mapbox api",
+    "type": "library",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "DaviSSilva\\DistanceCity\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Davi Santos",
+            "email": "daviedeus43@gmail.com"
+        }
+    ]
+}
